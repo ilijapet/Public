@@ -11,9 +11,9 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/ilijapet/Radionica/tree/radni/Public/paket',
+    url='https://github.com/ilijapet/public/tree/Master/paket',
     project_urls = {
-        "Bug Tracker": "https://github.com/ilijapet/Radionica/tree/radni/Public/paket"
+        "Bug Tracker": "https://github.com/ilijapet/public/tree/Master/paket/issues"
     },
     license='MIT',
     packages=['fun'],
