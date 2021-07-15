@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='public',
+    name='Public',
     version='0.0.3',
     author='Ilija Petroniejvic',
     author_email='ilijapet@gmail.com',
@@ -16,6 +16,6 @@ setuptools.setup(
         "Bug Tracker": "https://github.com/ilijapet/public/issues"
     },
     license='MIT',
-    packages=['public'],
+    packages=['Public'],
     install_requires=['requests'],
 )
